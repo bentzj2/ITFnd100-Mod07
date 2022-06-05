@@ -122,13 +122,13 @@ Using the load function was a bit tricky as it only loads one thing at a time. H
 ### Using PyCharm:  
 Since the program was written in PyCharm, it is straightforward to run and test the completed program (Fig. 1).  
 
-![Image 1](docs/Pycharm7.png)
+![Image 1](/docs/Pycharm7.png)
 *Fig. 1:  Testing the program in the PyCharm run window.*  
 
 ### Using the Command Window:
 After running the script in PyCharm, I made sure to test it using the Command Window on my computer (Fig. 2).  
 
-![Image 2](docs/cmd7.png)  
+![Image 2](/docs/cmd7.png)  
 *Fig. 2: Command Window with the Assignment 7 Program completed.*  
 
 ## Summary
