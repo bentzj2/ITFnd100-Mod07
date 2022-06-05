@@ -122,7 +122,8 @@ Using the load function was a bit tricky as it only loads one thing at a time. H
 ### Using PyCharm:  
 Since the program was written in PyCharm, it is straightforward to run and test the completed program (Fig. 1).  
 
-![Pycharm7](https://user-images.githubusercontent.com/105761141/172074318-c508df43-641a-40fd-af53-a39313b75099.png)  
+<img src="https://user-images.githubusercontent.com/105761141/172074318-c508df43-641a-40fd-af53-a39313b75099.png" alt="Image 1" style="height: 100px; width:100px;"/>
+![Pycharm7]()  
 *Fig. 1:  Testing the program in the PyCharm run window.*  
 
 ### Using the Command Window:
