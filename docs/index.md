@@ -122,7 +122,7 @@ Using the load function was a bit tricky as it only loads one thing at a time. H
 ### Using PyCharm:  
 Since the program was written in PyCharm, it is straightforward to run and test the completed program (Fig. 1).  
 
-![](https://github.com/bentzj2/ITFnd100-Mod07/blob/main/docs/Pycharm7.png)
+![](https://github.com/bentzj2/ITFnd100-Mod07/blob/main/docs/Pycharm7.png?raw=true)
 
 *Fig. 1:  Testing the program in the PyCharm run window.*  
 
