@@ -122,13 +122,13 @@ Using the load function was a bit tricky as it only loads one thing at a time. H
 ### Using PyCharm:  
 Since the program was written in PyCharm, it is straightforward to run and test the completed program (Fig. 1).  
 
-![](https://github.com/bentzj2/ITFnd100-Mod07/blob/4d6d065bab88be1db51bb6e2390b96169930b28a/docs/Pycharm7.png)
+![](https://github.com/bentzj2/ITFnd100-Mod07/blob/4d6d065bab88be1db51bb6e2390b96169930b28a/docs/Pycharm7.png)  
 *Fig. 1:  Testing the program in the PyCharm run window.*  
 
 ### Using the Command Window:
 After running the script in PyCharm, I made sure to test it using the Command Window on my computer (Fig. 2).  
 
-![](https://github.com/bentzj2/ITFnd100-Mod07/blob/4d6d065bab88be1db51bb6e2390b96169930b28a/docs/CMD7.png)
+![](https://github.com/bentzj2/ITFnd100-Mod07/blob/4d6d065bab88be1db51bb6e2390b96169930b28a/docs/CMD7.png)  
 
 *Fig. 2: Command Window with the Assignment 7 Program completed.*  
 
